@@ -2,13 +2,13 @@
   Premium GitHub Profile README
   Profile: Abir-Hossan
 ========================================================== -->
-****
+
 <div align="center">
 
 <img width="100%" src="./assets/abir-hossan-banner.png" alt="Sheikh Abir Hossan — Full-Stack Web Developer" />
 
 </div>
-****
+
 
 <div align="center">
 
