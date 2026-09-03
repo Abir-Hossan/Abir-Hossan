@@ -1,268 +1,182 @@
-# 👋 Hi, I'm Sheikh Abir Hossan
+<!--
+  Premium GitHub Profile README
+  Profile: Abir-Hossan
+-->
 
-<p align="center">
-  <a href="https://github.com/abir-hossan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Next.js+%7C+TypeScript+%7C+React;MERN+Stack+Developer;Building+Scalable+Web+Applications;Always+Learning%2C+Always+Building" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/abir-hossan">
-    <img src="https://komarev.com/ghpvc/?username=abir-hossan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
-  <a href="https://github.com/abir-hossan?tab=followers">
-    <img src="https://img.shields.io/github/followers/abir-hossan?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/abir-hossan?tab=repositories">
-    <img src="https://img.shields.io/github/stars/abir-hossan?affiliations=OWNER&style=flat&color=0e75b6&label=Stars" alt="GitHub stars" />
-  </a>
-</p>
+# Sheikh Abir Hossan
 
----
+### Full-Stack Developer • Next.js • TypeScript • React • MERN
 
-## 🚀 About Me
+<a href="https://github.com/Abir-Hossan">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=0E75B6&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Next.js+%7C+TypeScript+%7C+React;MERN+Stack+Developer;Building+Scalable+Web+Applications;Clean+Code+%E2%80%A2+Better+Products+%E2%80%A2+Continuous+Learning" alt="Typing introduction" />
+</a>
 
-I'm a **Full-Stack Developer** focused on building modern, scalable, and user-friendly web applications.
+<br/>
 
-My primary development stack includes **Next.js, TypeScript, React, Node.js, Express.js, MongoDB, and RESTful APIs**.
+<a href="https://github.com/Abir-Hossan?tab=followers">
+  <img src="https://img.shields.io/github/followers/Abir-Hossan?label=Followers&style=for-the-badge&logo=github&color=0e75b6" alt="GitHub followers" />
+</a>
+<a href="https://github.com/Abir-Hossan?tab=repositories">
+  <img src="https://img.shields.io/github/stars/Abir-Hossan?affiliations=OWNER&style=for-the-badge&logo=github&color=0e75b6&label=Stars" alt="GitHub stars" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=Abir-Hossan&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 
-I enjoy turning ideas into production-ready applications, designing clean architectures, solving programming problems, and continuously improving my development skills.
-
-### What I focus on
-
-* 🧩 Full-Stack Web Development
-* ⚡ Next.js & React Applications
-* 🔷 TypeScript Development
-* 🛠️ RESTful API Design
-* 🗄️ MongoDB & Database Management
-* 🔐 Authentication & Secure Application Architecture
-* 📱 Responsive & Accessible Interfaces
-* 🚀 Performance & Scalability
-* 🧠 Problem Solving & Clean Code
+</div>
 
 ---
 
-## 🧑‍💻 Current Focus
+## 👨‍💻 About Me
 
-```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│  🔭 Building      → Modern Full-Stack Applications  │
-│  🌱 Learning      → Advanced Next.js & TypeScript  │
-│  🧠 Improving     → System Design & Problem Solving│
-│  🛠️ Exploring     → Scalable Backend Architecture │
-│  🎯 Goal          → Become a stronger Software     │
-│                     Engineer                       │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
+I'm **Sheikh Abir Hossan**, a **Full-Stack Developer** focused on building modern, scalable, secure, and user-friendly web applications.
+
+I work primarily with **Next.js, TypeScript, React, Node.js, Express.js, MongoDB, and REST APIs**. I enjoy taking ideas from concept to production, designing maintainable application architecture, building responsive interfaces, and solving practical engineering problems.
+
+- 🔭 **Building:** Modern full-stack web applications
+- 🌱 **Learning:** Advanced Next.js, TypeScript, and backend architecture
+- 🧠 **Improving:** System design, problem solving, and clean-code practices
+- 🔐 **Interested in:** Authentication, application security, APIs, and scalable systems
+- 🎯 **Goal:** Grow into a stronger software engineer by shipping useful products
+- 💬 **Ask me about:** JavaScript, TypeScript, React, Next.js, Node.js, Express, and MongoDB
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
+
+<div align="center">
 
 ### Frontend
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap"/>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&perline=8" alt="Frontend technologies" />
 
 ### Backend & Database
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" alt="Express.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" height="45" alt="Firebase"/>
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&perline=8" alt="Backend and database technologies" />
 
 ### Languages
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
-</p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp&perline=8" alt="Programming languages" />
 
 ### Tools & Design
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="45" height="45" alt="Photoshop"/>
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ps&perline=8" alt="Development and design tools" />
+
+</div>
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abir-hossan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent" height="180" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abir-hossan&layout=compact&langs_count=8&hide_border=true&theme=transparent" height="180" alt="Top languages"/>
-</p>
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abir-Hossan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent" alt="Abir Hossan's GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abir-Hossan&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Abir Hossan's most used languages" />
 
-## 📈 Contribution Streak
+<br/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=abir-hossan&hide_border=true&theme=transparent" alt="GitHub contribution streak"/>
-</p>
+<img src="https://streak-stats.demolab.com?user=Abir-Hossan&hide_border=true&theme=transparent" alt="Abir Hossan's GitHub contribution streak" />
 
----
+</div>
 
-## 📅 Contribution Activity Graph
-
-<p align="center">
-  <a href="https://github.com/abir-hossan">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abir-hossan&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
-  </a>
-</p>
+> GitHub statistics are generated by third-party README services. If GitHub or one of those services is temporarily unavailable, a card may take a moment to load.
 
 ---
 
-## 📊 GitHub Contribution Overview
+## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abir-hossan&theme=github" alt="GitHub contribution overview"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abir-hossan&theme=github" height="170" alt="Repositories per language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abir-hossan&theme=github" height="170" alt="Most committed language"/>
-</p>
+<a href="https://github.com/Abir-Hossan">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abir-Hossan&theme=github-compact&hide_border=true&area=true" alt="Abir Hossan's GitHub contribution activity graph" />
+</a>
 
----
-
-# ⭐ Featured Projects
-
-> Replace the repository names below with your strongest projects.
-
-### 🚀 Project One
-
-**Modern Full-Stack Web Application**
-
-A production-focused web application built with modern frontend and backend technologies.
-
-**Tech:** `Next.js` `TypeScript` `MongoDB` `Node.js`
-
-<p>
-  <a href="https://github.com/abir-hossan/YOUR-PROJECT-1">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repository"/>
-  </a>
-</p>
+</div>
 
 ---
 
-### 💻 Project Two
+## 🧩 Profile Summary
 
-**Scalable MERN Application**
+<div align="center">
 
-A responsive full-stack application demonstrating authentication, API integration, database management, and modern UI development.
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abir-Hossan&theme=github" alt="GitHub profile details" />
 
-**Tech:** `React` `Node.js` `Express.js` `MongoDB`
+<br/>
 
-<p>
-  <a href="https://github.com/abir-hossan/YOUR-PROJECT-2">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repository"/>
-  </a>
-</p>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abir-Hossan&theme=github" alt="Repositories per language" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abir-Hossan&theme=github" alt="Most committed languages" />
 
----
-
-### ⚡ Project Three
-
-**TypeScript / Next.js Application**
-
-A modern application focused on clean architecture, reusable components, responsive design, and performance.
-
-**Tech:** `Next.js` `TypeScript` `React` `Tailwind CSS`
-
-<p>
-  <a href="https://github.com/abir-hossan/YOUR-PROJECT-3">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repository"/>
-  </a>
-</p>
+</div>
 
 ---
 
-# 📌 GitHub Repository Highlights
+## 🚀 Featured Work
 
-<p align="center">
-  <a href="https://github.com/abir-hossan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abir-hossan&repo=YOUR-PROJECT-1&theme=transparent&hide_border=true" alt="Featured repository"/>
-  </a>
-  <a href="https://github.com/abir-hossan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abir-hossan&repo=YOUR-PROJECT-2&theme=transparent&hide_border=true" alt="Featured repository"/>
-  </a>
-</p>
+> **Tip:** Pin your strongest repositories directly on your GitHub profile. That keeps this README professional without hard-coding repository names that may later change.
 
----
+I focus on projects that demonstrate:
 
-# 🏆 GitHub Achievements
+- **Full-stack engineering** — frontend, backend, databases, and API integration
+- **Modern UI development** — responsive interfaces and reusable components
+- **Application architecture** — maintainable structure, authentication, and clean APIs
+- **Performance & scalability** — practical optimization and production-minded development
+- **Type-safe development** — TypeScript-driven applications with clearer contracts
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abir-hossan&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies"/>
-</p>
+<div align="center">
 
----
+<a href="https://github.com/Abir-Hossan?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Abir Hossan's repositories" />
+</a>
 
-# 📈 Commit Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abir-hossan&bg_color=ffffff&color=333333&line=0e75b6&point=24292e&area=true&hide_border=true" alt="Commit activity graph"/>
-</p>
+</div>
 
 ---
 
-# 🤝 Connect With Me
+## 🏆 GitHub Achievements
 
-<p align="center">
-  <a href="https://github.com/abir-hossan">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/abir-hossan/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://stackoverflow.com/users/27758994/abir">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
-  </a>
-  <a href="https://www.instagram.com/abirr.hossan/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  📧 <strong>Email:</strong> skabirhossan02@gmail.com
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=Abir-Hossan&theme=flat&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" alt="Abir Hossan's GitHub trophies" />
+
+</div>
 
 ---
 
-# 💡 Developer Philosophy
+## 🤝 Connect With Me
 
-<p align="center">
-  <i>
-    "Build with purpose. Learn continuously. Solve problems. 
-    <br/>
-    Write code that makes a difference."
-  </i>
-</p>
+<div align="center">
+
+<a href="https://github.com/Abir-Hossan">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/abir-hossan/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://stackoverflow.com/users/27758994/abir">
+  <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+</a>
+<a href="https://www.instagram.com/abirr.hossan/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="mailto:skabirhossan02@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
 
 ---
 
-<p align="center">
-  <strong>Thanks for visiting my profile! 👋</strong>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" alt="Footer"/>
-</p>
+### 💡 Developer Philosophy
+
+*Build with purpose. Learn continuously. Solve real problems.*  
+*Write clean code and create software that makes a difference.*
+
+<br/>
+
+**Thanks for visiting my profile. 👋**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" alt="Footer wave" />
+
+</div>
