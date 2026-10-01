@@ -3,11 +3,31 @@
   Profile: Abir-Hossan
 ========================================================== -->
 
-<div align="center">
+<p align="center">
+  <img src="./assets/abir-hossan-banner.png" alt="Sheikh Abir Hossan - Full Stack Developer" width="100%" />
+</p>
 
-<img width="100%" src="./assets/abir-hossan-banner.png" alt="Sheikh Abir Hossan — Full-Stack Web Developer" />
+<h1 align="center">Hi 👋, I'm Sheikh Abir Hossan</h1>
 
-</div>
+<h3 align="center">
+  Full-Stack Developer | Next.js | React | TypeScript | MERN Stack
+</h3>
+
+<p align="center">
+  Passionate about building modern, responsive, and user-focused web applications.
+</p>
+
+<p align="center">
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-black?style=for-the-badge&logo=vercel" />
+   </a> 
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 
 <div align="center">
