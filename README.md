@@ -14,7 +14,7 @@
   Full-Stack Developer | Next.js | React | TypeScript | MERN Stack
 </h3>
 
-<a href="https://github.com/Abir-Hossan">
+<a align="center" href="https://github.com/Abir-Hossan">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=0E75B6&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Next.js+%7C+TypeScript+%7C+React;MERN+Stack+Developer;Building+Scalable+Web+Applications;Clean+Code+%E2%80%A2+Better+Products+%E2%80%A2+Continuous+Learning" alt="Typing introduction" />
 </a>
 
