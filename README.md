@@ -143,7 +143,6 @@ accessibility, and a smooth user experience.
 
 [Repository](https://github.com/Abir-Hossan/Movie-Explorer.git) • [Live Demo](https://movie-explorer-ivory-six.vercel.app/)
 
-Keeping fake repository names out of the live README prevents broken links.
 
 ---
 
