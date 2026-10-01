@@ -213,7 +213,7 @@ and fitness-related activities through a simple and intuitive interface.
 
 ## 📅 GitHub Contributions
 
-GitHub already provides the authoritative contribution calendar directly on the profile. Use the button below to open the live contribution history rather than depending on an unreliable third-party graph renderer.
+GitHub already provides the authoritative contribution calendar directly on the profile. Use the button below to open the live contribution history instead of relying on an unreliable third-party graph renderer.
 
 <div align="center">
 
