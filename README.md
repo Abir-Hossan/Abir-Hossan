@@ -32,6 +32,7 @@
 
 <br/><br/>
 
+
 <img src="https://komarev.com/ghpvc/?username=Abir-Hossan&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/Abir-Hossan?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers" />
 <img src="https://img.shields.io/github/stars/Abir-Hossan?affiliations=OWNER&label=Stars%20Got&style=for-the-badge&logo=github" alt="GitHub stars" />
@@ -133,14 +134,14 @@ I use this section for projects that best demonstrate **full-stack engineering, 
 
 
 
-### 🚕 Taxi Avada
+### 🎬 Movie Explorer
 
 A modern and responsive taxi service website focused on clean design,
-accessibility, and smooth user experience.
+accessibility, and a smooth user experience.
 
-**Tech Stack:** React • JavaScript • CSS
+**Tech Stack:** React • JavaScript • Tailwind CSS
 
-[Repository](https://github.com/Abir-Hossan/REAL-REPOSITORY-NAME) • [Live Demo](YOUR-LIVE-DEMO-URL)
+[Repository](https://github.com/Abir-Hossan/Movie-Explorer.git) • [Live Demo](https://movie-explorer-ivory-six.vercel.app/)
 
 Keeping fake repository names out of the live README prevents broken links.
 
@@ -151,10 +152,11 @@ Keeping fake repository names out of the live README prevents broken links.
 A responsive developer portfolio designed to showcase projects, technical
 skills, experience, and professional information.
 
-**Tech Stack:** React • JavaScript • Tailwind CSS
+**Tech Stack:** React • TypeScript • Tailwind CSS • Express • Node.js
 
-🔗 [Live Demo](YOUR_DEMO_PORTFOLIO_LIVE_URL)  
-📂 [Repository](https://github.com/Abir-Hossan/Demo-Portfolio)
+
+🔗 [Live Demo](https://demo-portfolio-omega-ruby.vercel.app/)  
+📂 [Repository](https://github.com/Abir-Hossan/Demo-Portfolio.git)
 
 ---
 
@@ -165,8 +167,8 @@ and fitness-related activities through a simple and intuitive interface.
 
 **Tech Stack:** Next.js • React • TypeScript • Tailwind CSS
 
-🔗 [Live Demo](YOUR_FITLOG_LIVE_URL)  
-📂 [Repository](https://github.com/Abir-Hossan/FitLog-Project)
+🔗 [Live Demo](https://fit-log-project-ecru.vercel.app/)
+📂 [Repository](https://github.com/Abir-Hossan/FitLog-Project.git)
 
 ---
 ## 📊 GitHub Statistics
