@@ -1,6 +1,4 @@
 <!-- =========================================================
-  Premium GitHub Profile README
-  Profile: Abir-Hossan
 ========================================================== -->
 
 <div align="center">
@@ -10,9 +8,7 @@
 </div>
 
 
-<div align="center">
-
-# 👋 Hi, I'm Sheikh Abir Hossan
+<h1 align="center">Hi 👋, I'm Sheikh Abir Hossan</h1>
 
 <h3 align="center">
   Full-Stack Developer | Next.js | React | TypeScript | MERN Stack
@@ -51,10 +47,10 @@ I'm **Sheikh Abir Hossan**, a **Full-Stack Developer** focused on building moder
 My primary stack includes **Next.js, TypeScript, React, Node.js, Express.js, MongoDB, and RESTful APIs**. I enjoy turning ideas into production-ready applications, designing maintainable architectures, building responsive interfaces, and solving practical engineering problems.
 
 - 🔭 **Building:** Modern full-stack web applications
-- 🌱 **Learning:** Advanced Next.js, TypeScript, and backend architecture
-- 🧠 **Improving:** System design, problem solving, and clean-code practices
-- 🔐 **Interested in:** Authentication, secure applications, APIs, performance, and scalability
-- 💬 **Ask me about:** JavaScript, TypeScript, React, Next.js, Node.js, Express.js, and MongoDB
+- 🌱 Exploring advanced **Next.js, TypeScript, and backend development**
+- 🎯 Focused on writing clean, maintainable, and reusable code
+- 🚀 Interested in performance, responsive design, and great user experiences
+- 📍 Based in **Dhaka, Bangladesh**
 - 📫 **Reach me:** `skabirhossan02@gmail.com`
 - 🎯 **Goal:** Keep growing as a software engineer by building useful products
 
@@ -94,7 +90,7 @@ My primary stack includes **Next.js, TypeScript, React, Node.js, Express.js, Mon
 `Firebase`  
 `Database Design`  
 `CRUD Operations`  
-`Data Modeling`
+`Data Modelling`
 
 </td>
 </tr>
@@ -120,6 +116,7 @@ My primary stack includes **Next.js, TypeScript, React, Node.js, Express.js, Mon
 
 </div>
 
+
 ---
 
 ## 🚀 Featured Projects
@@ -134,30 +131,60 @@ I use this section for projects that best demonstrate **full-stack engineering, 
 
 </div>
 
-<!--
-When you choose your strongest repositories, add project blocks like this:
 
-### 🚀 Project Name
 
-Short, outcome-focused project description.
+### 🚕 Taxi Avada
 
-**Tech:** `Next.js` `TypeScript` `Node.js` `MongoDB`
+A modern and responsive taxi service website focused on clean design,
+accessibility, and smooth user experience.
+
+**Tech Stack:** React • JavaScript • CSS
 
 [Repository](https://github.com/Abir-Hossan/REAL-REPOSITORY-NAME) • [Live Demo](YOUR-LIVE-DEMO-URL)
 
 Keeping fake repository names out of the live README prevents broken links.
--->
 
 ---
 
+### 💼 Demo Portfolio
+
+A responsive developer portfolio designed to showcase projects, technical
+skills, experience, and professional information.
+
+**Tech Stack:** React • JavaScript • Tailwind CSS
+
+🔗 [Live Demo](YOUR_DEMO_PORTFOLIO_LIVE_URL)  
+📂 [Repository](https://github.com/Abir-Hossan/Demo-Portfolio)
+
+---
+
+### 🏋️ FitLog
+
+A fitness tracking web application designed to help users monitor workouts
+and fitness-related activities through a simple and intuitive interface.
+
+**Tech Stack:** Next.js • React • TypeScript • Tailwind CSS
+
+🔗 [Live Demo](YOUR_FITLOG_LIVE_URL)  
+📂 [Repository](https://github.com/Abir-Hossan/FitLog-Project)
+
+---
 ## 📊 GitHub Statistics
 
-<!--
-IMPORTANT:
-The public github-readme-stats Vercel endpoint can be rate-limited.
-For a reliable profile, generate/self-host these cards and save them in ./assets/github-stats.svg
-and ./assets/top-langs.svg. Until those files exist, this README deliberately does not show a broken image.
--->
+
+<p align="center">
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=Abir-Hossan&show_icons=true&hide_border=true"
+    alt="Abir Hossan's GitHub Stats"
+  />
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abir-Hossan&layout=compact&hide_border=true"
+    alt="Most Used Languages"
+  />
+</p>
+
 
 <div align="center">
 
@@ -180,6 +207,7 @@ and ./assets/top-langs.svg. Until those files exist, this README deliberately do
 
 </div>
 
+
 ---
 
 ## 📅 GitHub Contributions
@@ -193,6 +221,7 @@ GitHub already provides the authoritative contribution calendar directly on the 
 </a>
 
 </div>
+
 
 ---
 
@@ -275,7 +304,7 @@ GitHub already provides the authoritative contribution calendar directly on the 
 
 I'm interested in opportunities and collaborations involving:
 
-`Full-Stack Development` • `Web Development` • `Software Engineering` • `Open Source` • `Interesting Development Projects`
+*Full-Stack Development` • `Web Development` • `Software Engineering` • `Open Source` • `Interesting Development Projects*
 
 If you're working on something useful and think my skills could contribute, feel free to reach out.
 
@@ -287,7 +316,7 @@ If you're working on something useful and think my skills could contribute, feel
 
 **Build with purpose • Learn continuously • Solve real problems**
 
-💙 Thanks for visiting my GitHub profile!
+ <i>Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</i>
 
 **Keep Coding • Keep Learning • Keep Building 🚀**
 
